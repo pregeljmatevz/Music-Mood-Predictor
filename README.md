@@ -85,16 +85,3 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Notes:
-
-- **Introduction:** Provides an overview of what the project does.
-- **Features:** Lists the main functionalities and capabilities of the project.
-- **Installation:** Step-by-step guide to install the project locally.
-- **Usage:** Instructions on how to use the application after installation.
-- **File Descriptions:** Describes the purpose of each important file in the project.
-- **Technologies Used:** Lists the main technologies and libraries used in the project.
-- **Contributing:** Guidelines for contributing to the project.
-- **License:** Information about the licensing of the project.
-
-Make sure to replace placeholders (`yourusername`, `music-mood-predictor`, etc.) with your actual GitHub username and project name. This README structure will help users understand your project, its functionality, and how to contribute effectively.
