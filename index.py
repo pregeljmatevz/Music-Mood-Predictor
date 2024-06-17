@@ -6,8 +6,8 @@ from sklearn.cluster import KMeans
 app = Flask(__name__)
 
 # Load songs dataset
-songs_data_path = r'C:/Users/matev/OneDrive/Namizje/songs_python/songs.csv'
-mood_data_path = r'C:/Users/matev/OneDrive/Namizje/songs_python/mood.csv'
+songs_data_path = r'song.csv FILE DIRECTORY'
+mood_data_path = r'mood.csv FILE DIRECTORY'
 
 try:
     songs_data = pd.read_csv(songs_data_path)
